@@ -5,6 +5,8 @@
 
 - unfamiliarity for the team, possible typos using `npm`
 
+- [does not support bower](https://github.com/yarnpkg/yarn/pull/1441)
+
 - lockfile conflicts?
     - **DO NOT edit `yarn.lock` manually**
 
