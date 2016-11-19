@@ -1,8 +1,8 @@
 ## Personal / Team Wins
 
-- installing and resolving dependencies [UX is better, provides feedback on what’s happening fast and effectively]
+- improved UX when installing and resolving packages - provides feedback on what’s happening fast and effectively
 
-- feedback cycle is faster wrt `rake` tasks and `yarn run` tasks
+- feedback cycle is faster wrt `rake` and `yarn run` tasks
 
 - multiple minutes waiting became seconds / milliseconds
 

@@ -1,10 +1,12 @@
 ##  Risks
 
-- hasn’t been around long.
+- hasn’t been around long
+    - will it be here in the long-term?
 
 - unfamiliarity for the team, possible typos using `npm`
 
 - lockfile conflicts?
+    - **DO NOT edit `yarn.lock` manually**
 
 - "It's not ready for production"
 
