@@ -11,8 +11,7 @@
     "grunt-contrib-jshint": "^0.11.2",
     "grunt-contrib-watch": "^0.6.1",
     "load-grunt-tasks": "^3.2.0",
-    "push-dir": "^0.2.2",
-    "rimraf": "^2.5.4"
+    "push-dir": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
@@ -20,7 +19,7 @@
   },
   "scripts": {
     "test": "grunt test",
-    "predeploy": "rimraf dist && grunt dist",
+    "predeploy": "grunt dist",
     "deploy": "push-dir --dir=dist --branch=gh-pages"
   }
 }
