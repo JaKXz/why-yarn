@@ -1,0 +1,44 @@
+[
+    "index.md",
+    [
+        {
+            "filename": "original-concerns.md",
+            "attr": {
+                "data-background": "#ff0000"
+            }
+        },
+        {
+            "filename": "community-adoption.md"
+        },
+        {
+            "filename": "interop-with-npm.md",
+            "attr": {
+                "data-background": "#00bb00"
+            }
+        }
+    ],
+    {
+        "filename": "wins.md"
+    },
+    {
+        "filename": "risks.md",
+        "attr": {
+            "data-background": "#0000ff"
+        }
+    },
+    {
+        "filename": "features.md"
+    },
+    {
+        "filename": "questions.md",
+        "attr": {
+            "data-background": "#fff000"
+        }
+    },
+    {
+        "filename": "references.md",
+        "attr": {
+            "data-background": "#ccc"
+        }
+    }
+]
